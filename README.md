@@ -12,10 +12,10 @@ Haz clic en el botón verde `"New repository"`.
 2️⃣ Crear un proyecto (Projects)
 En tu repositorio, ve a la pestaña "Projects".
 
-<img src="./files/new_project.png" style="width: 300px;"/>
+<img src="./files/new_project.png" style="width:100%;"/>
 
 Crea un nuevo proyecto, estilo kanban
-<img src="./files/project_kanban.png" style="width: 300px;"/>
+<img src="./files/project_kanban.png" style="width:100%;"/>
 
 Si fuera un proyecto muy grande estaría bien nombrar cada `project` como Sprint 1, Sprint 2 y que cada repo tendría tantos `project` como sprints.
 
