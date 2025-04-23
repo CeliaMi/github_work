@@ -33,10 +33,10 @@ Vamos a dejar esto apartado por un momento y vamos a crear un issue básico que 
 3️⃣ Crear un issue básico (sin template)
 
 En el repo, ve a la pestaña "Issues".
-<img src="./files/issues_click.png" style="width: 300px;"/>
+<img src="./files/issues_click.png" style="width:100%;"/>
 
 Haz clic en "New issue".
-<img src="./files/issues_tab.png" style="width: 300px;"/>
+<img src="./files/issues_tab.png" style="width:100%;"/>
 
 Escribe un título, por ejemplo: `Agregar botón de contacto`
 
@@ -52,10 +52,10 @@ Clic en "Submit new issue".
 
 Bien, si ahora volvemos a nuestra pestaña de proyectos, veremos que el issue que creamos aparece en la columna "No status"✨
 
-<img src="./files/newissue_project.png" style="width: 300px;"/>
+<img src="./files/newissue_project.png" style="width:100%;"/>
 
 Si pulsamos sobre el nuevo issue, podemos ver que se ha vinculado correctamente al proyecto. Ahora vamos a crear nuestra rama de trabajo asociado a esta tarea.
-<img src="./files/issue_create_branch.png" style="width: 300px;"/>
+<img src="./files/issue_create_branch.png" style="width:100%;"/>
 
 Cada vez que hagas commit acuerdate de agregar el número del issue al que corresponde. Por ejemplo:
 
