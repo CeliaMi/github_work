@@ -1,0 +1,30 @@
+name: "Style Feature Request"
+description: "Sugiere una nueva funcionalidad relacionada con el estilo"
+title: "[FEATURE-STYLED] "
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Solicitud de funcionalidad
+        Por favor completá los siguientes campos para describir la nueva funcionalidad de estilo.
+
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: "📄 Descripción"
+      description: "¿Que parte de la app vas a estilar?"
+      placeholder: "Ej: Página de inicio"
+    validations:
+      required: true
+
+  - type: textarea
+    id: comentarios_adicionales
+    attributes:
+      label: "📝 Comentarios adicionales"
+      description: "¿ Eeferencias, links, etc.?"
+      placeholder: "Ej: Aquí adjunto el diseño según figma.com/proyecto, detalles de la paleta de color y recursos..."
+    validations:
+      required: false
