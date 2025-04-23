@@ -1,0 +1,30 @@
+name: "Feature Request"
+description: "Sugiere una nueva funcionalidad"
+title: "[FEATURE] "
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Solicitud de funcionalidad
+        Por favor completá los siguientes campos para describir la nueva funcionalidad.
+
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: "📄 Descripción"
+      description: "¿Qué se quiere implementar?"
+      placeholder: "Ej: Un buscador en la parte superior del sitio"
+    validations:
+      required: true
+
+  - type: textarea
+    id: comentarios_adicionales
+    attributes:
+      label: "📝 Comentarios adicionales"
+      description: "¿Consideraciones técnicas, referencias, links, etc.?"
+      placeholder: "Ej: Requiere usar una API externa, diseño según figma.com/proyecto..."
+    validations:
+      required: false
