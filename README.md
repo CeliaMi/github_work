@@ -122,11 +122,19 @@ Asocia el issue al proyecto (usa la barra lateral derecha).
 
 5️⃣ Crear un Pull Request desde el issue
 Ve a la pestaña "Issues". una vez hagas push sobre la rama de tu funcionalidad, verás que la parte superior de tu repo aparece un botón para realizar una Pull Request.
-Igualmente también puedes ir a la pestaña "Pull Requests" y verás un botón verde que dice "New Pull Request".
+
+<img src="./files/pull_request_button_compare.png" style="width:100%;"/>
+Igualmente también puedes ir a la pestaña "Pull Requests"
+<img src="./files/pull_request_tab_button_compare.png" style="width:100%;"/>
+si no te sale automaticamenta también puedes crear la solicitud desde la pestña de pull request "New Pull Request".
 <img src="./files/pull_request_click.png" style="width:100%;"/>
 Verás un botón para crear un Pull Request.
+
 
 En el cuerpo del PR, escribe Closes #7 → esto cerrará el issue automáticamente al hacer merge.
 
 Envía el PR y espera aprobación
+
+así es la vista de la persona que lo aprueba .
+<img src="./files/pull_request_tab_reviewers.png" style="width:100%;"/>
 
