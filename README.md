@@ -130,7 +130,7 @@ si no te sale automaticamenta también puedes crear la solicitud desde la pestñ
 <img src="./files/pull_request_click.png" style="width:100%;"/>
 Verás un botón para crear un Pull Request.
 
-
+<img src="./files/pull_request_request.png" style="width:100%;"/>
 En el cuerpo del PR, escribe Closes #7 → esto cerrará el issue automáticamente al hacer merge.
 
 Envía el PR y espera aprobación
